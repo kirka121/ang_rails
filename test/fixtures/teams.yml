@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  club_id: 
+  name: MyString
+  captain: MyString
+  date_created: 2014-09-01 08:04:35
+
+two:
+  club_id: 
+  name: MyString
+  captain: MyString
+  date_created: 2014-09-01 08:04:35
